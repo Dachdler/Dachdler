@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dachdler
 - 👀 I’m interested in Game Development, Artificial Intelligence
 - 🌱 I’m currently learning SQL, Java, C#, C++, JavaScript
-- 💞️ I’m looking to collaborate on an artificial intelligence capable of destroying the world
+- 💞️ I’m looking to collaborate on an artificial intelligence capable of dominate the world
 - 📫 How to reach me ...
 Don't try it.
 
