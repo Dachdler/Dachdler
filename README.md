@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 Don't try it.
 
-SQL Expert
 
 <!---
 Dachdler/Dachdler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
